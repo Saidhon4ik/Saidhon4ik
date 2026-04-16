@@ -3,6 +3,7 @@ I’m currently learning Java OOP on my own 🧑‍💻.<br>I also have prior ex
 
 
 ## 🌐 Socials:
+[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?logo=telegram&logoColor=white)](https://t.me/satoryk2099)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yen2o9) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Said-657) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Gojou209) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Saidkhon) 
 
 # 💻 Tech Stack:
