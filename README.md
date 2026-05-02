@@ -1,5 +1,19 @@
 # 💫 About Me:
-I’m currently learning Java OOP on my own 🧑‍💻.<br>I also have prior experience with Python, but I’ve forgotten some parts of it and I’m now working on refreshing my knowledge 😳. In a way, I might end up revisiting Python from the basics since some fundamentals may have faded over time.<br><br>If anyone is interested in helping me improve my Java or Python skills, I would really appreciate the support 😊.<br><br>By the way, a small fact about me is that I’m a fast learner and can quickly grasp new concepts 🤓.
+
+I'm currently working on a terminal-based RPG game in Python 🐍 — 
+built from scratch using OOP principles (classes, inheritance, encapsulation). 
+It's a fan-made Slay the Spire clone called **Slay The Terminal** and it's 
+actually playable already 🎮.
+
+Alongside that, I'm refreshing and deepening my Python knowledge — 
+focusing on clean code, project structure, and real-world problem solving.
+
+I'm also learning Java OOP on the side 🧑‍💻, though Python is my main focus right now.
+
+My goal? Becoming a **Data Engineer** 📊 — Python and SQL are my tools of choice,
+and I'm building projects to get there.
+
+Fast learner, always curious, and I enjoy turning ideas into actual working code 🚀.
 
 
 ## 🌐 Socials:
